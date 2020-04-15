@@ -1,0 +1,3 @@
+export const LOGIN_TEAM = 'LOGIN_TEAM';
+export const LOGIN_TEAM_SUCCESS = 'LOGIN_TEAM_SUCCESS';
+export const LOGIN_TEAM_FAIL = 'LOGIN_TEAM_FAIL';
